@@ -2,3 +2,4 @@ Hi guys, i create this for interact
 start program
 open file.txt
 <if "open" say "Hi"
+-- hello --
