@@ -3,3 +3,5 @@ start program
 open file.txt
 <if "open" say "Hi"
 -- hello --
+Dov'è la graffa?
+
